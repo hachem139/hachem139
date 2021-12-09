@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hachem139
+- 👀 I’m interested in learning and progressing in cs50 course 
+- 🌱 I’m currently learning course of introduction to camputer science 
+- 💞️ I’m looking to collaborate on everything related to the subject i am learning about 
+- 📫 How to reach me : hachchan@yahoo.com
